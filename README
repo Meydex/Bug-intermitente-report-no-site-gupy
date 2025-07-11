@@ -18,7 +18,7 @@ O erro acontece quando:
 4. O clique em **"Login para candidatos"** redireciona o usuário para uma página de **orçamento**, e não para a página de login.
 
 ![BUG-01 Gif](evidencias/Gifs/bug-01.gif)
-![BUG-01 GIF](evidencias/Gifs/bug-01.gif)
+
 ---
 
 ## Detalhes Técnicos
