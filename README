@@ -17,7 +17,7 @@ O erro acontece quando:
 3. Mesmo que a caixa acordeão se expanda visualmente, o DOM ainda não está pronto para aceitar interações.
 4. O clique em **"Login para candidatos"** redireciona o usuário para uma página de **orçamento**, e não para a página de login.
 
-![BUG-01 Gif](evidencias\Gifs\bug-01.gif)
+![BUG-01 Gif](evidencias/Gifs/bug-01.gif)
 ---
 
 ## Detalhes Técnicos
@@ -35,8 +35,8 @@ Durante a inspeção com o DevTools do navegador, foram identificados os seguint
   `pointer-events: none`  
   Isso **impede a interatividade com os elementos**, mesmo que estejam visíveis ao usuário.
 
-  ![BUG-01 Print](evidencias\prints\bug-01.JPG)
-  ![Funcionamento Normal](evidencias\prints\funcionamento_normal.JPG)
+  ![BUG-01 Print](evidencias/prints/bug-01.JPG)
+  ![Funcionamento Normal](evidencias/prints/funcionamento_normal.JPG)
   
 
 ---
@@ -90,7 +90,7 @@ O foco do projeto é **manual**, por conta do bug ser **intermitente e altamente
 
 ## BUG report feito no JIRA
 
-![Funcionamento Normal](evidencias\Gifs\reporte_no_jira.gif)
+![Funcionamento Normal](evidencias/Gifs/reporte_no_jira.gif)
 
 ---
 **Meydson santos**  
